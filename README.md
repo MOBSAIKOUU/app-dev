@@ -8,10 +8,10 @@
 Hi! I'm **Jherzy Jhay**, an IT student who enjoys programming, playing guitar, and solving Rubik's Cubes.
 
 ### 💻 My Skills
-Front-end: **React, Vite, Tailwind CSS, JavaScript**
-Back-end: **Supabase, PostgreSQL, RestAPI, Node.js**
-Deployment/Hosting: **Spaceship/Vercel**
-Development Tools: **VSCode, Codex**
+- Front-end: **React, Vite, Tailwind CSS, JavaScript**
+- Back-end: **Supabase, PostgreSQL, RestAPI, Node.js**
+- Deployment/Hosting: **Spaceship/Vercel**
+- Development Tools: **VSCode, Codex**
 
 ### 🚀 My Project
 **[BTime](https://btime.site)** — A Rubik's Cube timer with scrambles, statistics, and customizable themes.
