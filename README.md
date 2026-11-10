@@ -1,23 +1,3 @@
-
-# 👨‍💻 Jherzy Jhay
-**BSIT Student | Web Developerr**
-
-🌐 [My Web Portfolio](https://jaaayy.online)
-
-## About Me
-Hi! I'm **Jherzy Jhay**, an IT student who enjoys programming, playing guitar, and solving Rubik's Cubes.
-
-### 💻 My Skills
-- Front-end: **React, Vite, Tailwind CSS, JavaScript**
-- Back-end: **Supabase, PostgreSQL, RestAPI, Node.js**
-- Deployment/Hosting: **Spaceship/Vercel**
-- Development Tools: **VSCode, Codex**
-
-### 🚀 My Project
-**[BTime](https://btime.site)** — A Rubik's Cube timer with scrambles, statistics, and customizable themes.
-
----
-
 ## 🎬 My Favorite Series: The Walking Dead
 
 **Genre:** Horror, Drama, Survival
@@ -32,16 +12,5 @@ Hi! I'm **Jherzy Jhay**, an IT student who enjoys programming, playing guitar, a
 **Favorite Character:** Daryl Dixon 🏹
 
 **Rating:** ⭐⭐⭐⭐⭐ (5/5)
-
-> A great series about survival and friendship.
-
----
-
-## 🎯 My Goals
-- [x] Create my own website
-- [x] Build a web application
-- [ ] Become a professional developer
-
-~~Stop learning~~ **Keep improving! 🚀**
 
 🌐 **[Visit jaaayy.online](https://jaaayy.online)**
