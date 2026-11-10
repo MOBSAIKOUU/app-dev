@@ -1,6 +1,5 @@
 
 # 👨‍💻 Jherzy Jhay
-
 **BSIT Student | Aspiring Developer**
 
 🌐 [My Web Portfolio](https://jaaayy.online)
